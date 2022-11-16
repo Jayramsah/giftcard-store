@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="JayramStore">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="GiftcardStore">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Header">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="StoreDetails">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="StoreName" type="xs:string" />
+                          <xs:element name="Logo" />
+                          <xs:element name="StoreAddress" type="xs:string" />
+                          <xs:element name="StoreContactNo" type="xs:string" />
+                          <xs:element name="StoreWebsite" type="xs:string" />
+                        </xs:sequence>
+                        <xs:attribute name="storeID" type="xs:integer" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Description" type="xs:string" />
+              <xs:element name="Title" type="xs:string" />
+              <xs:element name="GiftCards">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="GiftCard" maxOccurs="unbounded">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="GiftCardName" type="xs:string" />
+                          <xs:element name="Box">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="Image">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="Photo">
+                                        <xs:complexType>
+                                          <xs:attribute name="code" type="xs:integer" use="required" />
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="Text">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="Type" type="xs:string" />
+                                      <xs:element name="Validity" type="xs:string" />
+                                      <xs:element name="Price" type="xs:string" />
+                                      <xs:element name="NoOfUsers" type="xs:string" />
+                                      <xs:element name="DiscountVouchers" type="xs:string" />
+                                      <xs:element name="Delivery" type="xs:string" />
+                                      <xs:element name="Time" type="xs:string" />
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="CardInfo" type="xs:string" />
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="JayramStore" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

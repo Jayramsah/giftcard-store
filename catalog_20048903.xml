@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="catalog_20048903.css"?>
+
+<JayramStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_20048903.xsd">
+    <GiftcardStore>
+        <Header>
+            <StoreDetails storeID="204172">
+                <StoreName>JayramStore</StoreName>
+                <Logo />
+                <StoreAddress>Address: London,United Kingdom</StoreAddress>
+                <StoreContactNo>Contact N0: +44 78664718002 </StoreContactNo>
+                <StoreWebsite>Website: www.Jayramstore.co.uk</StoreWebsite>
+            </StoreDetails>
+        </Header>
+        <Description>
+            Jayram Store is a gift card store in London,Burnas sells digital gift cards or gift vouchers.
+            A gift card is a form of payment that can be used to make purchase at retails stores, gas stations,
+            restaurnants and other locations. You load money onto the card, which you or the gift card recipient
+            can then spend at accepted locations.
+        </Description>
+        <Title>
+            Gift Cards
+        </Title>
+        <GiftCards>
+            <GiftCard>
+                <GiftCardName>Jayram Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='1' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Physical</Type>
+                        <Validity>Valid Upto : 1 years</Validity>
+                        <Price>Price : &#163;3500</Price>
+                        <NoOfUsers>Number of Users : 60</NoOfUsers>
+                        <DiscountVouchers>Discount : 10% Discount for members</DiscountVouchers>
+                        <Delivery>Delivery : Home delivery</Delivery>
+                        <Time>Estimated Time : 3 Working Days</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [A gift card is a prepaid debit card with a pre-loaded amount that may.price of £3000.  be used to make purchases and other financial activities.]]
+                </CardInfo>
+            </GiftCard>
+
+            <GiftCard>
+                <GiftCardName>Perfect Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='2' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Digital</Type>
+                        <Validity>Valid Upto : 1 years</Validity>
+                        <Price>Price : &#163;100</Price>
+                        <NoOfUsers>Number of Users : 100</NoOfUsers>
+                        <DiscountVouchers>Discount : No discount available</DiscountVouchers>
+                        <Delivery>Delivery : Through E-Mail</Delivery>
+                        <Time>Estimated Time : 10 Minutes</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [Gift your best friends the Steam gift card. The steam card can be redeemed at the steam store and the balance will be added to your account. You can use to buy new games or purchase DLCs.]]
+                </CardInfo>
+            </GiftCard>
+
+            <GiftCard>
+                <GiftCardName>Jayram Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='3' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Physical</Type>
+                        <Validity>Valid Upto : 6 months</Validity>
+                        <Price>Price : &#163;500</Price>
+                        <NoOfUsers>Number of Users : 250</NoOfUsers>
+                        <DiscountVouchers>Discount : No discount available</DiscountVouchers>
+                        <Delivery>Delivery : Home delivery</Delivery>
+                        <Time>Estimated Time : 3 Working Days</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [When someone buys you a gift card from a store, they are purchasing a card with a specific value that allows you to select an item or things with that value from that store or chain.]]
+                </CardInfo>
+            </GiftCard>
+            <GiftCard>
+                <GiftCardName> Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='4' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Physical</Type>
+                        <Validity>Valid Upto : 4 months</Validity>
+                        <Price>Price : &#163;2000</Price>
+                        <NoOfUsers>Number of Users : 20</NoOfUsers>
+                        <DiscountVouchers>Discount : Discount for purchase above £300</DiscountVouchers>
+                        <Delivery>Delivery : Home delivery</Delivery>
+                        <Time>Estimated Time : 1 week Days</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [The terms "digital gift cards" and "egift cards" are interchangeable. They're just an electronic version of a real gift card that can be delivered to a recipient's email address and used online or in stores.]]
+                </CardInfo>
+            </GiftCard>
+            <GiftCard>
+                <GiftCardName>online Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='5' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Digital</Type>
+                        <Validity>Valid Upto : 1 years</Validity>
+                        <Price>Price : &#163;200</Price>
+                        <NoOfUsers>Number of Users : 800</NoOfUsers>
+                        <DiscountVouchers>Discount : 35% Discount for PS Plus Subscribers</DiscountVouchers>
+                        <Delivery>Delivery : Through E-Mail</Delivery>
+                        <Time>Estimated Time : 5 Minutes</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [Jayram Gift gift card can be redeemed at the IS store and the balance will be added to your account. You can use to buy or purchase DLCs.]]
+                </CardInfo>
+            </GiftCard>
+            <GiftCard>
+                <GiftCardName>Digital Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='6' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Digital</Type>
+                        <Validity>Valid Upto : 7 months</Validity>
+                        <Price>Price : &#163;100</Price>
+                        <NoOfUsers>Number of Users : 4200</NoOfUsers>
+                        <DiscountVouchers>Discount : No discount available</DiscountVouchers>
+                        <Delivery>Delivery : Through E-Mail</Delivery>
+                        <Time>Estimated Time : 5 Minutes</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [The purchaser will receive their gift card via email.]]
+                </CardInfo>
+            </GiftCard>
+            <GiftCard>
+                <GiftCardName>IKEA Gift Card</GiftCardName>
+                <Box>
+                    <Image>
+                        <Photo code='7' />
+                    </Image>
+                    <Text>
+                        <Type>Type : Digital</Type>
+                        <Validity>Valid Upto : 1 yeras</Validity>
+                        <Price>Price : &#163;10000</Price>
+                        <NoOfUsers>Number of Users : 40</NoOfUsers>
+                        <DiscountVouchers>Discount : No discount available</DiscountVouchers>
+                        <Delivery>Delivery : Through E-Mail</Delivery>
+                        <Time>Estimated Time : 5 Minutes</Time>
+                    </Text>
+                </Box>
+                <CardInfo>
+                    [Gift your family IKEA furniture on their special day. You can go to any of the IKEA stores and redeem the IKEA gift card to purchase.]]
+                </CardInfo>
+            </GiftCard>
+        </GiftCards>
+    </GiftcardStore>
+</JayramStore>
